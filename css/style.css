@@ -1,0 +1,10 @@
+#start_button {
+	align-self: center;
+}
+
+canvas {
+	background-color: grey;
+	height: 700;
+	width: 800;
+}
+
